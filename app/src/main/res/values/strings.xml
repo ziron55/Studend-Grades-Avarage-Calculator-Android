@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikacja do liczenia średniej</string>
+    <string name="app_name_grades">Oceny studenta</string>
+    <string name="firstName">Imię:</string>
+    <string name="surName">Nazwisko:</string>
+    <string name="gradesNumber">Liczba ocen:</string>
+    <string name="button">Oceny</string>
+    <string name="buttonBack">Gotowe</string>
+    <string name="label">Ocena:</string>
+    <string name="grade2RadioButton">2</string>
+    <string name="grade3RadioButton">3</string>
+    <string name="grade4RadioButton">4</string>
+    <string name="grade5RadioButton">5</string>
+</resources>
